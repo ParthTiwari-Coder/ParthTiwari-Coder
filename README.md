@@ -30,18 +30,7 @@ Working at the intersection of language models, retrieval systems, and applied M
 
 **Stack**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="36" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="36" title="C++"/>
-  <img src="https://skillicons.dev/icons?i=js" height="36" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=java" height="36" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=react" height="36" title="React"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="36" title="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="36" title="TensorFlow"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="36" title="scikit-learn"/>
-  <img src="https://skillicons.dev/icons?i=opencv" height="36" title="OpenCV"/>
-  <img src="https://skillicons.dev/icons?i=git" height="36" title="Git"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,react,fastapi,tensorflow,sklearn,opencv,git&perline=5" />
 
 `RAG Systems` · `Prompt Engineering` · `LLM Pipelines` · `OpenAI API` · `Gemini API`
 

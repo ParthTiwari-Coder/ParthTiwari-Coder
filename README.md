@@ -13,7 +13,11 @@
 
 ---
 
-## About
+<table>
+<tr>
+<td width="52%" valign="top">
+
+**About**
 
 AI & Data Science student building **practical AI-driven systems** and full-stack applications with real-world impact.
 
@@ -21,9 +25,10 @@ Working at the intersection of language models, retrieval systems, and applied M
 
 `B.Tech` · `Hackathon Finalist` · `Open-Source Contributor`
 
----
+</td>
+<td width="48%" valign="top">
 
-## Stack
+**Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -39,6 +44,10 @@ Working at the intersection of language models, retrieval systems, and applied M
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 `RAG Systems` · `Prompt Engineering` · `LLM Pipelines`
+
+</td>
+</tr>
+</table>
 
 ---
 

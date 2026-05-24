@@ -41,8 +41,6 @@ Working at the intersection of language models, retrieval systems, and applied M
 <img src="https://skillicons.dev/icons?i=opencv" width="28" height="28" />&nbsp;
 <img src="https://skillicons.dev/icons?i=git" width="28" height="28" />
 
-`RAG Systems` · `Prompt Engineering` · `OpenAI API` · `Gemini API`
-
 </td>
 </tr>
 </table>

@@ -30,16 +30,20 @@ Working at the intersection of language models, retrieval systems, and applied M
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=python" width="28" height="28" />&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" width="28" height="28" />&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="28" height="28" />&nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="28" height="28" />&nbsp;
-<img src="https://skillicons.dev/icons?i=react" width="28" height="28" />&nbsp;
-<img src="https://skillicons.dev/icons?i=fastapi" width="28" height="28" />&nbsp;
-<img src="https://skillicons.dev/icons?i=tensorflow" width="28" height="28" />&nbsp;
-<img src="https://skillicons.dev/icons?i=sklearn" width="28" height="28" />&nbsp;
-<img src="https://skillicons.dev/icons?i=opencv" width="28" height="28" />&nbsp;
-<img src="https://skillicons.dev/icons?i=git" width="28" height="28" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+`RAG Systems` · `Prompt Engineering` · `LLM Pipelines`
 
 </td>
 </tr>

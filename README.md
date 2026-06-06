@@ -47,7 +47,7 @@ Working at the intersection of language models, retrieval systems, and applied M
 
 </td>
 </tr>
-</table>
+</table>2
 
 ---
 
@@ -63,7 +63,7 @@ Misinformation detection using semantic analysis, multimodal verification, and a
 
 `RAG` `OpenAI` `Chrome Extension`
 
-### 🎖️ [SAFE AI](https://github.com/ParthTiwari-Coder/safe-ai) — `Top 75 · 418 Teams`
+### 🎖️ [SAFEGuard AI](https://github.com/ParthTiwari-Coder/SafeGuard AI) — `Top 75 · 418 Teams`
 Medical AI safety layer filtering unsafe clinical outputs through evidence verification and multi-source risk scoring.
 
 `LLM Safety` `FastAPI` `Python`
